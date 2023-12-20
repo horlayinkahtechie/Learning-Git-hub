@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+.red-coke {
+    max-width: 400px;
+    min-width: 580px;
+    min-height: 500px;
+    border-radius: 10%;
+    margin-top: 13%;
+    margin-left: 27px;
+}
+
+.drink-heading {
+    margin-top: 20%;
+    margin-left: 70px;
+    font-size: 70px;
+    color: white;
+}
+
+.drink-description {
+    margin-left: 70px;
+    font-size: 20px;
+    color: white;
+    margin-top: 15px;
+    font-weight: lighter;
+}
+
+.hidden {
+    display: none;
+}
+
+.coke-icons {
+    padding-top: 70px;
+}
+
+.red-coke-icon2 {
+    cursor: pointer;
+}
+
+.blue-coke-icon2 {
+    cursor: pointer;
+}
+
+.red-coke-icon {
+    cursor: pointer;
+}
+
+.blue-coke-icon {
+    cursor: pointer;
+}
+
+.section--hidden {
+    opacity: 0;
+    transform: translateY(8rem);
+  }
